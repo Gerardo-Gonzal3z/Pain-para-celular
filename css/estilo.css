@@ -1,0 +1,22 @@
+body
+{
+    background: url(https://st4.depositphotos.com/11618586/23954/i/450/depositphotos_239544226-stock-photo-close-swirling-pink-blue-smoke.jpg);/* Imagen de Fondo */
+    background-size: 110vw 110vh; /* el tamaño y acoplacion de la imagen */
+	background-repeat: no-repeat; /* para colocarlo una vez y no repetirlo */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+h1
+{
+    color: rgb(37, 155, 240);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p
+{
+    color: rgb(237, 28, 70);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
