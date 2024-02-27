@@ -1,6 +1,6 @@
 body
 {
-    background: url(https://archzine.es/wp-content/uploads/2019/07/5-arbol-atardecer-nubes-agua-naturaleza-noche-bonita-en-la-orrilla-del-mar-fondos-de-pantalla-bonitos-y-originales-para-descargar-gratis.jpg);/* Imagen de Fondo */
+    background: url(https://c.wallhere.com/photos/30/1e/county_sky_moon_lighthouse_ontario_canada_reflection_thames-700807.jpg!d);/* Imagen de Fondo */
     background-size: 110vw 110vh; /* el tamaño y acoplacion de la imagen */
 	background-repeat: no-repeat; /* para colocarlo una vez y no repetirlo */
     display: flex;
@@ -17,7 +17,7 @@ h1
 }
 p
 {
-    color: rgb(237, 28, 70);
+    color: rgb(0, 0, 0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
